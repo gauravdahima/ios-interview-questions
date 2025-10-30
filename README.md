@@ -17,3 +17,5 @@ Q7: What is capture list?
 Q8: What are access modifiers in swift?
 
 Q9: What are the different types of initializers?
+
+Q10: How access control applies to initializers?
