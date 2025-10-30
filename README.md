@@ -14,4 +14,6 @@ Q6: What are closures? What are trailing closures? What are escaping and non-esc
 
 Q7: What is capture list?
 
+Q8: What are access modifiers in swift?
+
 
