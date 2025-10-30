@@ -10,3 +10,5 @@ Q4: How would you implement a thread-safe lazy property?
 
 Q5: What are optionals? Explain optional binding, optional chaining, force unwrapping and Nil-Coalescing Operator (??) in swift?
 
+Q6: What are closures? What are trailing closures? What are escaping and non-escaping closures?
+
