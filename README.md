@@ -12,3 +12,6 @@ Q5: What are optionals? Explain optional binding, optional chaining, force unwra
 
 Q6: What are closures? What are trailing closures? What are escaping and non-escaping closures?
 
+Q7: What is capture list?
+
+
